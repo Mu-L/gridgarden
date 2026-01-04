@@ -19,6 +19,7 @@ My gratitude to these contributors for their translations.
 
 * Albanian by [Enea Muskaj](https://github.com/eneamuskaj)
 * Arabic by [Basel Akasha](https://github.com/baselakasha)
+* Armenian by [NarekCodes] (https://github.com/NarekCodes)
 * Azerbaijani by [jalalbmnf](https://github.com/jalalbmnf)
 * Bengali by [Mohammad Mahid Alam](https://github.com/mahidsec)
 * Bulgarian by [radoAngelov](https://github.com/radoAngelov)
